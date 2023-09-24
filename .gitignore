@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DZ_05_Delegate/.vs/DZ_05_Delegate
+/DZ_05_Delegate/DZ_05_Delegate/bin/Debug/net6.0
+/DZ_05_Delegate/DZ_05_Delegate/obj
